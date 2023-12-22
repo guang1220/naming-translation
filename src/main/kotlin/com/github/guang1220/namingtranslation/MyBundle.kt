@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.guang1220.namingtranslation
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
